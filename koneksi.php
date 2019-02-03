@@ -120,10 +120,7 @@ class koneksi{
             return false;
         }
     }
-<<<<<<< HEAD
 
-
-=======
     public function simpan($id,$tanggal,$total){
         $id = mysqli_real_escape_string($this->connect, $id);
         $tanggal = mysqli_real_escape_string($this->connect, $tanggal);
@@ -203,5 +200,4 @@ class koneksi{
             return false;
         }
     }
->>>>>>> 845dba7b3df51f5d4474483a9e8435d72159142a
 }

@@ -134,14 +134,20 @@
       <file leaf-file-name="koneksi.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/koneksi.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="90" column="9" lean-forward="true" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+            <state relative-caret-position="705">
+              <caret line="201" column="5" lean-forward="false" selection-start-line="201" selection-start-column="5" selection-end-line="201" selection-end-column="5" />
               <folding>
-                <marker date="1549182323293" expanded="true" signature="1107:1197" ph="SELECT usr_u... registrasi" />
-                <marker date="1549182323293" expanded="true" signature="1733:1760" ph="SELECT COUNT... simpan" />
-                <marker date="1549182323293" expanded="true" signature="2174:2201" ph="SELECT COUNT... pinjam" />
-                <marker date="1549182323293" expanded="true" signature="2611:2642" ph="SELECT COUNT... registrasi" />
-                <marker date="1549182323293" expanded="true" signature="3916:4091" ph="INSERT INTO registrasi... " />
+                <marker date="1549182552283" expanded="true" signature="1107:1197" ph="SELECT usr_u... registrasi" />
+                <marker date="1549182552283" expanded="true" signature="1733:1760" ph="SELECT COUNT... simpan" />
+                <marker date="1549182552283" expanded="true" signature="2174:2201" ph="SELECT COUNT... pinjam" />
+                <marker date="1549182552283" expanded="true" signature="2611:2642" ph="SELECT COUNT... registrasi" />
+                <marker date="1549182552283" expanded="true" signature="3916:4091" ph="INSERT INTO registrasi... " />
+                <marker date="1549182552283" expanded="true" signature="4678:4741" ph="INSERT INTO simpan... " />
+                <marker date="1549182552283" expanded="true" signature="5257:5320" ph="INSERT INTO pinjam... " />
+                <marker date="1549182552283" expanded="true" signature="5682:5716" ph="DELETE FROM " />
+                <marker date="1549182552283" expanded="true" signature="6063:6097" ph="DELETE FROM " />
+                <marker date="1549182552283" expanded="true" signature="6695:6767" ph="UPDATE pinja... " />
+                <marker date="1549182552283" expanded="true" signature="7378:7450" ph="UPDATE simpa... " />
               </folding>
             </state>
           </provider>
@@ -302,7 +308,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549165781724</updated>
-      <workItem from="1549165783225" duration="14477000" />
+      <workItem from="1549165783225" duration="14701000" />
     </task>
     <task id="LOCAL-00001" summary="another commit">
       <created>1549168843430</created>
@@ -315,7 +321,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14477000" />
+    <option name="totallyTimeSpent" value="14701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -593,14 +599,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/koneksi.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="90" column="9" lean-forward="true" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+        <state relative-caret-position="705">
+          <caret line="201" column="5" lean-forward="false" selection-start-line="201" selection-start-column="5" selection-end-line="201" selection-end-column="5" />
           <folding>
-            <marker date="1549182323293" expanded="true" signature="1107:1197" ph="SELECT usr_u... registrasi" />
-            <marker date="1549182323293" expanded="true" signature="1733:1760" ph="SELECT COUNT... simpan" />
-            <marker date="1549182323293" expanded="true" signature="2174:2201" ph="SELECT COUNT... pinjam" />
-            <marker date="1549182323293" expanded="true" signature="2611:2642" ph="SELECT COUNT... registrasi" />
-            <marker date="1549182323293" expanded="true" signature="3916:4091" ph="INSERT INTO registrasi... " />
+            <marker date="1549182552283" expanded="true" signature="1107:1197" ph="SELECT usr_u... registrasi" />
+            <marker date="1549182552283" expanded="true" signature="1733:1760" ph="SELECT COUNT... simpan" />
+            <marker date="1549182552283" expanded="true" signature="2174:2201" ph="SELECT COUNT... pinjam" />
+            <marker date="1549182552283" expanded="true" signature="2611:2642" ph="SELECT COUNT... registrasi" />
+            <marker date="1549182552283" expanded="true" signature="3916:4091" ph="INSERT INTO registrasi... " />
+            <marker date="1549182552283" expanded="true" signature="4678:4741" ph="INSERT INTO simpan... " />
+            <marker date="1549182552283" expanded="true" signature="5257:5320" ph="INSERT INTO pinjam... " />
+            <marker date="1549182552283" expanded="true" signature="5682:5716" ph="DELETE FROM " />
+            <marker date="1549182552283" expanded="true" signature="6063:6097" ph="DELETE FROM " />
+            <marker date="1549182552283" expanded="true" signature="6695:6767" ph="UPDATE pinja... " />
+            <marker date="1549182552283" expanded="true" signature="7378:7450" ph="UPDATE simpa... " />
           </folding>
         </state>
       </provider>
