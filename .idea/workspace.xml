@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f833cfec-ca27-4d44-ad5b-1d0f052669ae" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koneksi.php" afterPath="$PROJECT_DIR$/koneksi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -125,12 +125,12 @@
       <file leaf-file-name="koneksi.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/koneksi.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1549176964472" expanded="true" signature="1107:1211" ph="SELECT usr_u... registrasi" />
-                <marker date="1549176964472" expanded="true" signature="1731:1758" ph="SELECT COUNT... simpan" />
-                <marker date="1549176964472" expanded="true" signature="3048:3223" ph="INSERT INTO registrasi... " />
+                <marker date="1549177227975" expanded="true" signature="1107:1211" ph="SELECT usr_u... registrasi" />
+                <marker date="1549177227975" expanded="true" signature="1731:1758" ph="SELECT COUNT... simpan" />
+                <marker date="1549177227975" expanded="true" signature="3048:3223" ph="INSERT INTO registrasi... " />
               </folding>
             </state>
           </provider>
@@ -295,7 +295,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549165781724</updated>
-      <workItem from="1549165783225" duration="9137000" />
+      <workItem from="1549165783225" duration="9495000" />
     </task>
     <task id="LOCAL-00001" summary="another commit">
       <created>1549168843430</created>
@@ -308,7 +308,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9137000" />
+    <option name="totallyTimeSpent" value="9495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -534,12 +534,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/koneksi.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1549176964472" expanded="true" signature="1107:1211" ph="SELECT usr_u... registrasi" />
-            <marker date="1549176964472" expanded="true" signature="1731:1758" ph="SELECT COUNT... simpan" />
-            <marker date="1549176964472" expanded="true" signature="3048:3223" ph="INSERT INTO registrasi... " />
+            <marker date="1549177227975" expanded="true" signature="1107:1211" ph="SELECT usr_u... registrasi" />
+            <marker date="1549177227975" expanded="true" signature="1731:1758" ph="SELECT COUNT... simpan" />
+            <marker date="1549177227975" expanded="true" signature="3048:3223" ph="INSERT INTO registrasi... " />
           </folding>
         </state>
       </provider>
