@@ -88,4 +88,83 @@ class koneksi{
             return false;
         }
     }
+    public function simpan($id,$tanggal,$total){
+        $id = mysqli_real_escape_string($this->connect, $id);
+        $tanggal = mysqli_real_escape_string($this->connect, $tanggal);
+        $total = mysqli_real_escape_string($this->connect, $total);
+
+        $simpan = $this->connect->prepare("INSERT INTO simpan (usr_id,sim_tanggal,sim_total) VALUES(?,?,?)");
+
+        $simpan->bind_param('iii',$usr_id,$sim_tanggal,$sim_total);
+        $simpan->execute();
+        $simpan->store_result();
+        if($simpan->affected_rows == 0){
+            return false;
+        }
+    }
+    public function pinjam($id,$tanggal,$total){
+        $id = mysqli_real_escape_string($this->connect, $id);
+        $username = mysqli_real_escape_string($this->connect, $tanggal);
+        $username = mysqli_real_escape_string($this->connect, $total);
+
+        $pinjam = $this->connect->prepare("INSERT INTO pinjam (usr_id,pin_tanggal,pin_total) VALUES(?,?,?)");
+
+        $pinjam->bind_param('iii',$usr_id,$pin_tanggal,$pin_total);
+        $pinjam->execute();
+        $pinjam->store_result();
+        if($pinjam->affected_rows == 0){
+            return false;
+        }
+    }
+    public function dltPinjam($id){
+        $id = mysqli_real_escape_string($this->connect, $id);
+
+        $dltPinjam = $this->connect->prepare("DELETE FROM pinjam WHERE pin_id = $id");
+        $dltPinjam->bind_param('i',$id);
+        $dltPinjam->execute();
+        $dltPinjam->store_result();
+        if($dltPinjam->affected_rows == 0){
+            return false;
+        }
+
+    }
+    public function dltSimpan($id){
+        $id = mysqli_real_escape_string($this->connect, $id);
+
+        $dltSimpan = $this->connect->prepare("DELETE FROM siman WHERE sim_idd = $id");
+        $dltSimpan->bind_param('i',$id);
+        $dltSimpan->execute();
+        $dltSimpan->store_simpan();
+        if($dltSimpan->affected_rows == 0){
+            return false;
+        }
+    }
+    public function upPinjam($pin_id,$usr_id,$tanggal,$total){
+        $pin_id = mysqli_real_escape_string($this->connect, $pin_id);
+        $usr_id = mysqli_real_escape_string($this->connect, $usr_id);
+        $tanggal = mysqli_real_escape_string($this->connect, $tanggal);
+        $total = mysqli_real_escape_string($this->connect, $total);
+        
+        $upPinjam = $this->connect->prepare("UPDATE pinjam SET usr_id = $usr_id, pin_tanggal = $tanggal, pin_total = $total");
+        $upPinjam->bind_param('iii',$usr_id,$tanggal,$total);
+        $upPinjam->execute();
+        $upPinjam->store_result();
+        if($upPinjam->affected_rows == 0){
+            return false;
+        }
+    }
+    public function upSimpan($sim_id,$usr_id,$tanggal,$total){
+        $sim_id = mysqli_real_escape_string($this->connect, $sim_id);
+        $usr_id = mysqli_real_escape_string($this->connect, $usr_id);
+        $tanggal = mysqli_real_escape_string($this->connect, $tanggal);
+        $total = mysqli_real_escape_string($this->connect, $total);
+
+        $upSimpan = $this->connect->prepare("UPDATE simpan SET usr_id = $usr_id, sim_tanggal = $tanggal, sim_total = $total");
+        $upSimpan->bind_param('iii',$usr_id,$tanggal,$total);
+        $upSimpan->execute();
+        $upSimpan->store_result();
+        if($upSimpan->affected_rows == 0){
+            return false;
+        }
+    }
 }
