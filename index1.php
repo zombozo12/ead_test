@@ -1,10 +1,10 @@
 <!doctype html>
 <html class="no-js" lang="">
 <?php
-require('koneksi.php');
-use koneksi\koneksi;
+    require('koneksi.php');
+    use koneksi\koneksi;
 
-$initDb = koneksi::initDatabase();
+    $initDb = koneksi::initDatabase();
 ?>
 <head>
     <meta charset="utf-8">
@@ -59,12 +59,12 @@ $initDb = koneksi::initDatabase();
                     </div>
                     <div class="col-lg-7 col-sm-9 d-none d-lg-block">
                         <ul class="mainmenu d-flex justify-content-end">
-                            <li class="active"><a href="javascript:void(0);">Home <i class="fa fa-angle-down"></i></a>
-                                <ul>
+                            <li class="active"><a href="./">Home</i></a>
+                                <!--<ul>
                                     <li><a href="index.html">Home Main</a></li>
                                     <li><a href="index2.html">Home Two</a></li>
                                     <li><a href="index3.html">Home Three</a></li>
-                                </ul>
+                                </ul>-->
                             </li>
                             <li><a href="about.html">about us</a></li>
                             <li><a href="javascript:void(0);">pages</a>
@@ -151,9 +151,9 @@ $initDb = koneksi::initDatabase();
                             <div class="col-12">
                                 <h2><span>Koperasi Simpan Pinjam EAD</h2>
                                 <p>Jadilah anggota koperasi simpan pinjam EAD dan raih banyak manfaatnya</p>
-                                <ul>
-                                    <li><a href="#">Login</a></li>
-                                    <li><a href="#">Registrasi</a></li>
+                                <ul class="cd-main-nav__list js-signin-modal-trigger">
+                                    <li><a href="login.php" >Login</a></li>
+                                    <li><a href="regist.php">Registrasi</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -221,7 +221,7 @@ $initDb = koneksi::initDatabase();
             <div class="row">
                 <div class="col-12">
                     <div class="section-title text-center">
-                        <h2>Why Choose Us</h2>
+                        <h2>Why Choose Bitcoin</h2>
                         <img src="assets/images/line.png" alt="">
                     </div>
                 </div>
@@ -229,21 +229,22 @@ $initDb = koneksi::initDatabase();
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="service-wrap">
-                        <h3>Memiliki Nilai yang Adil</h3>
-                        <p>Nilai di sini dalam artian ialah setiap anggota akan menerima kredit modal dengan adil dan layak. Apalagi jalan untuk mendapatkan modal usaha tidaklah sulit dan setiap tahapannya sangat mudah dan berbelit.</p>
-                        <p>Selain itu, perusahaan ini juga akan memberikan pengarahan yang baik seputar pentingnya bergotong royong dan berorganisasi bagi setiap anggotanya. Jadi kemungkinan penipuan tidak akan pernah terjadi.</p>
+                        <h3>What We Offer</h3>
+                        <p>There are many variations of passages of an Lorem Ipsum available but the about majority have suffered alteration in man some form a by injected humour or that randomised the a words which</p>
+                        <p>There are many variations of passages of an Lorem Ipsum available but the about majority have suffered.</p>
+                        <a href="#">Free Consultation</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="service-items">
                         <span class="flaticon-bitcoin-9"></span>
-                        <h3>Membuka Kesempatan Kerja</h3>
-                        <p>Banyak orang berbakat dalam dunia bisnis di negara ini. Sayangnya beberapa di antaranya tidak dapat melakukannya karena keterbatasan modal yang dimiliki. Nah jika sudah begitu, meminjamnya lewat koperasi simpan pinjam di EAD dapat menjadi pilihan yang bijak.</p>
+                        <h3>Safe And Secure</h3>
+                        <p>There are many variations of Lorem Ipsum available but the about  some majority have form randomised words which believable.</p>
                     </div>
                     <div class="service-items">
                         <span class="flaticon-profits"></span>
-                        <h3>Bunga Pinjaman</h3>
-                        <p>Masih berkaitan dengan poin kedua, ketika meminjamnya Anda juga tidak perlu khawatir sebab bunga bersifat flat atau menurun. Jadi pembayaran dirasa tidak terlalu memberatkan masyarakat yang melakukan peminjaman dana. Hal itu tidak dapat diraih dengan memilih perusahaan lain maupun di bank. Mengetahui tersebut jelas membuat Anda tidak perlu lagi mempercayakan modal usaha kepada EAD.</p>
+                        <h3>Instant Exchange</h3>
+                        <p>There are many variations of Lorem Ipsum available but the about  some majority have form randomised words which believable.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-12">
@@ -251,15 +252,15 @@ $initDb = koneksi::initDatabase();
                         <div class="col-lg-12 col-md-6 col-12">
                             <div class="service-items">
                                 <span class="flaticon-exchange-1"></span>
-                                <h3>Mengurangi Praktek Rentenir</h3>
-                                <p>Bunga yang berjalan flat tersebut sangatlah menguntungkan. Hal itu merupakan berita bagus bagi semua orang sekaligus membunuh praktek rentenir yang dianggap masih sering terjadi di negara ini. Persyaratan koperasi simpan pinjam di EAD jauh lebih simpel.</p>
+                                <h3>Secure Wallet</h3>
+                                <p>There are many variations of Lorem Ipsum available but the about  some majority have form randomised words which believable.</p>
                             </div>
                         </div>
                         <div class="col-lg-12 col-md-6 col-12">
                             <div class="service-items">
                                 <span class="flaticon-bitcoin-7"></span>
-                                <h3>Mempercepat Pertumbuhan Ekonomi</h3>
-                                <p>Kehadiran perusahaan koperasi sangatlah membantu banyak pihak. Perusahaan itu berhubungan dengan legalitas negara yang membuktikan bahwa kualitas. Membantu masyarakat dalam memberikan peminjaman uang, tak salah bila menyebutnya mempercepat pertumbuhan ekonomi di Indonesia. Itulah alasan mengapa cocok untuk memilih kami.</p>
+                                <h3>Experts Support</h3>
+                                <p>There are many variations of Lorem Ipsum available but the about  some majority have form randomised words which believable.</p>
                             </div>
                         </div>
                     </div>
@@ -366,6 +367,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="assets/js/metisMenu.min.js"></script>
     <!-- plugins js -->
     <script src="assets/js/plugins.js "></script>
+    <!-- polyfill for the HTML5 placeholder attribute -->
+    <script src="assets/js/placeholders.min.js"></script>
+    <!-- Resource JavaScript -->
+    <script src="assets/js/main.js"></script>
         <script>
             // chart
     window.onload = function () {

@@ -33,7 +33,7 @@ class koneksi{
         }
 
         $password_hash = hash('md5', $this->salt . $password);
-        $login = $this->connect->prepare("SELECT usr_username, usr_password, usr_email FROM registrasi WHERE usr_username = ? AND usr_password = ?");
+        $login = $this->connect->prepare("SELECT usr_username, usr_email FROM registrasi WHERE usr_username = ? AND usr_password = ?");
         $login->bind_param('ss', $username, $password_hash);
         $login->execute();
         $login->store_result();
@@ -43,9 +43,9 @@ class koneksi{
         }
 
         $loginDetail['log_detail'] = array();
-        $login->bind_result($username);
+        $login->bind_result($username, $email);
         while($login->fetch()){
-            array_push($loginDetail['log_detail'], $username);
+            array_push($loginDetail['log_detail'], $username, $email);
         }
         return $loginDetail['log_detail'];
     }
@@ -64,6 +64,38 @@ class koneksi{
             $countSimpanan[] = ['jumlah_simpanan' => $data];
         }
         return $countSimpanan;
+    }
+
+    public function count_pinjaman(){
+        $get = $this->connect->prepare('SELECT COUNT(*) FROM pinjam');
+        $get->execute();
+        $get->store_result();
+        if($get->num_rows == 0){
+            return false;
+        }
+
+        $countPinjaman = array();
+        $get->bind_result($data);
+        while($get->fetch()){
+            $countPinjaman[] = ['jumlah_pinjaman' => $data];
+        }
+        return $countPinjaman;
+    }
+
+    public function count_user(){
+        $get = $this->connect->prepare('SELECT COUNT(*) FROM registrasi');
+        $get->execute();
+        $get->store_result();
+        if($get->num_rows == 0){
+            return false;
+        }
+
+        $countUser = array();
+        $get->bind_result($data);
+        while($get->fetch()){
+            $countUser[] = ['jumlah_user' => $data];
+        }
+        return $countUser;
     }
 
     public function Register($username, $password,$nama,$nik,$alamat,$status,$pekerjaan,$tempatLahir,$tanggalLahir,$email){
@@ -88,4 +120,6 @@ class koneksi{
             return false;
         }
     }
+
+
 }
