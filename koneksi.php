@@ -49,7 +49,7 @@ class koneksi{
         }
         return $loginDetail['log_detail'];
     }
-
+    
     public function count_simpanan(){
         $get = $this->connect->prepare('SELECT COUNT(*) FROM simpan');
         $get->execute();
@@ -65,7 +65,7 @@ class koneksi{
         }
         return $countSimpanan;
     }
-  
+
     public function Register($username, $password,$nama,$nik,$alamat,$status,$pekerjaan,$tempatLahir,$tanggalLahir,$email){
         $username = mysqli_real_escape_string($this->connect, $username);
         $password = mysqli_real_escape_string($this->connect, $password);
