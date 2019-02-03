@@ -11,7 +11,7 @@ class koneksi{
         define("DBHOSTNAME", "127.0.0.1");
         define("DBUSERNAME", "root");
         define("DBPASSWORD", "jancok");
-        define("DBNAME", "");
+        define("DBNAME", "db_koperasi");
         $connect = mysqli_connect(DBHOSTNAME, DBUSERNAME, DBPASSWORD, DBNAME) or die(mysqli_error($connect));
 
         if($connect->connect_error){
@@ -49,6 +49,23 @@ class koneksi{
         }
         return $loginDetail['log_detail'];
     }
+
+    public function count_simpanan(){
+        $get = $this->connect->prepare('SELECT COUNT(*) FROM simpan');
+        $get->execute();
+        $get->store_result();
+        if($get->num_rows == 0){
+            return false;
+        }
+
+        $countSimpanan = array();
+        $get->bind_result($data);
+        while($get->fetch()){
+            $countSimpanan[] = ['jumlah_simpanan' => $data];
+        }
+        return $countSimpanan;
+    }
+  
     public function Register($username, $password,$nama,$nik,$alamat,$status,$pekerjaan,$tempatLahir,$tanggalLahir,$email){
         $username = mysqli_real_escape_string($this->connect, $username);
         $password = mysqli_real_escape_string($this->connect, $password);
@@ -71,5 +88,4 @@ class koneksi{
             return false;
         }
     }
-
 }
