@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f833cfec-ca27-4d44-ad5b-1d0f052669ae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koneksi.php" afterPath="$PROJECT_DIR$/koneksi.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -129,12 +125,12 @@
       <file leaf-file-name="koneksi.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/koneksi.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="56" column="24" lean-forward="true" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+            <state relative-caret-position="189">
+              <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
               <folding>
-                <marker date="1549175683390" expanded="true" signature="1107:1211" ph="SELECT usr_u... registrasi" />
-                <marker date="1549175683390" expanded="true" signature="1727:1754" ph="SELECT count... simpan" />
-                <marker date="1549175683390" expanded="true" signature="1727:1781" ph="SELECT count... simpan" />
+                <marker date="1549176964472" expanded="true" signature="1107:1211" ph="SELECT usr_u... registrasi" />
+                <marker date="1549176964472" expanded="true" signature="1731:1758" ph="SELECT COUNT... simpan" />
+                <marker date="1549176964472" expanded="true" signature="3048:3223" ph="INSERT INTO registrasi... " />
               </folding>
             </state>
           </provider>
@@ -209,9 +205,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../beevention-erja/model.php" />
-        <option value="$PROJECT_DIR$/koneksi.php" />
         <option value="$PROJECT_DIR$/tes.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/koneksi.php" />
       </list>
     </option>
   </component>
@@ -299,7 +295,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549165781724</updated>
-      <workItem from="1549165783225" duration="8847000" />
+      <workItem from="1549165783225" duration="9137000" />
     </task>
     <task id="LOCAL-00001" summary="another commit">
       <created>1549168843430</created>
@@ -312,7 +308,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8847000" />
+    <option name="totallyTimeSpent" value="9137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -538,12 +534,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/koneksi.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="56" column="24" lean-forward="true" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+        <state relative-caret-position="189">
+          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
           <folding>
-            <marker date="1549175683390" expanded="true" signature="1107:1211" ph="SELECT usr_u... registrasi" />
-            <marker date="1549175683390" expanded="true" signature="1727:1754" ph="SELECT count... simpan" />
-            <marker date="1549175683390" expanded="true" signature="1727:1781" ph="SELECT count... simpan" />
+            <marker date="1549176964472" expanded="true" signature="1107:1211" ph="SELECT usr_u... registrasi" />
+            <marker date="1549176964472" expanded="true" signature="1731:1758" ph="SELECT COUNT... simpan" />
+            <marker date="1549176964472" expanded="true" signature="3048:3223" ph="INSERT INTO registrasi... " />
           </folding>
         </state>
       </provider>

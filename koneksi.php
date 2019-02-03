@@ -49,7 +49,7 @@ class koneksi{
         }
         return $loginDetail['log_detail'];
     }
-
+    
     public function count_simpanan(){
         $get = $this->connect->prepare('SELECT COUNT(*) FROM simpan');
         $get->execute();
@@ -64,5 +64,28 @@ class koneksi{
             $countSimpanan[] = ['jumlah_simpanan' => $data];
         }
         return $countSimpanan;
+    }
+
+    public function Register($username, $password,$nama,$nik,$alamat,$status,$pekerjaan,$tempatLahir,$tanggalLahir,$email){
+        $username = mysqli_real_escape_string($this->connect, $username);
+        $password = mysqli_real_escape_string($this->connect, $password);
+        $nama = mysqli_real_escape_string($this->connect, $nama);
+        $nik = mysqli_real_escape_string($this->connect, $nik);
+        $alamat = mysqli_real_escape_string($this->connect, $alamat);
+        $status = mysqli_real_escape_string($this->connect, $status);
+        $pekerjaan = mysqli_real_escape_string($this->connect, $pekerjaan);
+        $tempatLahir= mysqli_real_escape_string($this->connect, $tempatLahir);
+        $tanggalLahir = mysqli_real_escape_string($this->connect, $tanggalLahir);
+        $email = mysqli_real_escape_string($this->connect, $email);
+
+        $password_hash = hash('md5', $this->salt . $password);
+        $create = $this->connect->prepare("INSERT INTO registrasi (usr_username,usr_password,usr_nama,usr_nik,usr_alamat,usr_status,usr_pekerjaan,usr_tempatLahir,usr_tanggalLahir,usr_email) VALUES (?,?,?,?,?,?,?,?,?,?)");
+
+        $create->bind_param('sssissssis', $username, $password_hash,$nama,$nik,$alamat,$status,$pekerjaan,$tempatLahir,$tanggalLahir,$email);
+        $create->execute();
+        $create->store_result();
+        if($create->affected_rows == 0){
+            return false;
+        }
     }
 }
