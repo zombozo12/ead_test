@@ -1,6 +1,11 @@
 <!doctype html>
 <html class="no-js" lang="">
+<?php
+    require('koneksi.php');
+    use koneksi\koneksi;
 
+    $initDb = koneksi::initDatabase();
+?>
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -185,7 +190,7 @@
                         <div class="col-sm-3 col-6">
                             <div class="about-items">
                                 <img src="assets/images/about/icon/1.png" alt="">
-                                <span class="counter">1454</span>
+                                <span class="counter"><?php echo $initDb->count_simpanan()[0]['jumlah_simpanan']; ?></span>
                                 <p>Jumlah Simpanan</p>
                             </div>
                         </div>
