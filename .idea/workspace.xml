@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f833cfec-ca27-4d44-ad5b-1d0f052669ae" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/about/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/about/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/about/icon/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/about/icon/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/about/icon/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/about/icon/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bg/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bg/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bg/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bg/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bg/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bg/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bg/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bg/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bg/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bg/expart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/blog-details.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/comment/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/comment/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/comment/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/comment/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blog/comment/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/calcluate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/favicon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/featured/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/featured/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/featured/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/featured/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/line2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/mobail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/post/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/post/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/post/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/icon/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/icon/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/icon/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/icon/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/icon/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/icon/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/icon/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/service/icon/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/shop/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/shop/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/shop/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/shop/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/shop/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/shop/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/slider/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/slider/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/slider/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/slider/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/slider/thumb/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/slider/thumb/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/slider/thumb/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/slider/thumb/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/team/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/team/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/team/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/team/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/test/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/test/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/test/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/EAD.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/flaticon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/metisMenu.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/owl.carousel.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/swiper.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.canvasjs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/mailchimp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/metisMenu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/placeholders.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/swiper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/vendor/jquery-2.2.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/vendor/modernizr-2.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/vendor/popper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/koneksi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/koperasi.sql" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="126" column="33" lean-forward="true" selection-start-line="126" selection-start-column="33" selection-end-line="126" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/demo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="koneksi.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/koneksi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+              <folding>
+                <marker date="1549170454010" expanded="true" signature="1096:1200" ph="SELECT usr_u... registrasi" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../beevention-erja/model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="828">
+              <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+              <folding>
+                <marker date="1542370054420" expanded="true" signature="1306:1380" ph="SELECT usr_u... tbl_user" />
+                <marker date="1542370054420" expanded="true" signature="2347:2422" ph="SELECT adm_u... tbl_admin" />
+                <marker date="1542370054420" expanded="true" signature="3983:4095" ph="INSERT INTO tbl_user... " />
+                <marker date="1542370054420" expanded="true" signature="4763:4847" ph="SELECT usr_u... tbl_user" />
+                <marker date="1542370054420" expanded="true" signature="5372:5422" ph="SELECT usr_e... tbl_user" />
+                <marker date="1542370054420" expanded="true" signature="5806:5862" ph="SELECT usr_u... tbl_user" />
+                <marker date="1542370054420" expanded="true" signature="6254:6304" ph="SELECT usr_i... tbl_user" />
+                <marker date="1542370054420" expanded="true" signature="7633:7707" ph="UPDATE tbl_u... " />
+                <marker date="1542370054420" expanded="true" signature="8053:8569" ph="SELECT com.c... tbl_compe" />
+                <marker date="1542370054420" expanded="true" signature="9256:9901" ph="SELECT com.c... tbl_compe" />
+                <marker date="1542370054420" expanded="true" signature="10650:11170" ph="SELECT sem.s... tbl_seminar" />
+                <marker date="1542370054420" expanded="true" signature="12061:12237" ph="SELECT (SELE... " />
+                <marker date="1542370054420" expanded="true" signature="12106:12136" ph="SELECT count... tbl_compe" />
+                <marker date="1542370054420" expanded="true" signature="12190:12222" ph="SELECT count... tbl_seminar" />
+                <marker date="1542370054420" expanded="true" signature="12748:12981" ph="SELECT com_i... tbl_compe" />
+                <marker date="1542370054420" expanded="true" signature="13729:13809" ph="SELECT crd_d... tbl_comperundown" />
+                <marker date="1542370054420" expanded="true" signature="14426:14507" ph="SELECT chd_j... tbl_compehadiah" />
+                <marker date="1542370054420" expanded="true" signature="15131:15366" ph="SELECT sem_i... tbl_seminar" />
+                <marker date="1542370054420" expanded="true" signature="16118:16189" ph="SELECT spb_n... tbl_seminarpembicara" />
+                <marker date="1542370054420" expanded="true" signature="16767:16849" ph="SELECT srd_d... tbl_seminarrundown" />
+                <marker date="1542370054420" expanded="true" signature="17571:17628" ph="UPDATE tbl_s... " />
+                <marker date="1542370054420" expanded="true" signature="18191:18270" ph="UPDATE tbl_s... " />
+                <marker date="1542370054420" expanded="true" signature="18928:19021" ph="UPDATE tbl_s... " />
+                <marker date="1542370054420" expanded="true" signature="19440:19692" ph="SELECT com_i... tbl_compe" />
+                <marker date="1542370054420" expanded="true" signature="20268:20613" ph="SELECT sem.s... tbl_seminar" />
+                <marker date="1542370054420" expanded="true" signature="21706:21789" ph="INSERT INTO tbl_proposal... " />
+                <marker date="1542370054420" expanded="true" signature="22322:22385" ph="INSERT INTO tbl_proposalstatus... " />
+                <marker date="1542370054420" expanded="true" signature="22763:22811" ph="SELECT pro_i... tbl_proposal" />
+                <marker date="1542370054420" expanded="true" signature="23427:23488" ph="UPDATE tbl_p... " />
+                <marker date="1542370054420" expanded="true" signature="23883:24359" ph="SELECT pro.p... tbl_proposal" />
+                <marker date="1542370054420" expanded="true" signature="25176:25237" ph="UPDATE tbl_p... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Login</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/koneksi.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="977" />
+    <option name="height" value="1089" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EAD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EAD" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../login-signup-modal-master" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\EAD\assets\css" />
+      <recent name="C:\xampp\htdocs\EAD\assets\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f833cfec-ca27-4d44-ad5b-1d0f052669ae" name="Default" comment="" />
+      <created>1549165781724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549165781724</updated>
+      <workItem from="1549165783225" duration="4654000" />
+    </task>
+    <task id="LOCAL-00001" summary="another commit">
+      <created>1549168843430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549168843430</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4654000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="another commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="another commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/favicon.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beevention-erja/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="28" column="24" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="94" selection-end-column="0" />
+          <folding>
+            <marker date="1542373292819" expanded="true" signature="2058:2092" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="126" column="33" lean-forward="true" selection-start-line="126" selection-start-column="33" selection-end-line="126" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beevention-erja/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding>
+            <marker date="1542370054420" expanded="true" signature="1306:1380" ph="SELECT usr_u... tbl_user" />
+            <marker date="1542370054420" expanded="true" signature="2347:2422" ph="SELECT adm_u... tbl_admin" />
+            <marker date="1542370054420" expanded="true" signature="3983:4095" ph="INSERT INTO tbl_user... " />
+            <marker date="1542370054420" expanded="true" signature="4763:4847" ph="SELECT usr_u... tbl_user" />
+            <marker date="1542370054420" expanded="true" signature="5372:5422" ph="SELECT usr_e... tbl_user" />
+            <marker date="1542370054420" expanded="true" signature="5806:5862" ph="SELECT usr_u... tbl_user" />
+            <marker date="1542370054420" expanded="true" signature="6254:6304" ph="SELECT usr_i... tbl_user" />
+            <marker date="1542370054420" expanded="true" signature="7633:7707" ph="UPDATE tbl_u... " />
+            <marker date="1542370054420" expanded="true" signature="8053:8569" ph="SELECT com.c... tbl_compe" />
+            <marker date="1542370054420" expanded="true" signature="9256:9901" ph="SELECT com.c... tbl_compe" />
+            <marker date="1542370054420" expanded="true" signature="10650:11170" ph="SELECT sem.s... tbl_seminar" />
+            <marker date="1542370054420" expanded="true" signature="12061:12237" ph="SELECT (SELE... " />
+            <marker date="1542370054420" expanded="true" signature="12106:12136" ph="SELECT count... tbl_compe" />
+            <marker date="1542370054420" expanded="true" signature="12190:12222" ph="SELECT count... tbl_seminar" />
+            <marker date="1542370054420" expanded="true" signature="12748:12981" ph="SELECT com_i... tbl_compe" />
+            <marker date="1542370054420" expanded="true" signature="13729:13809" ph="SELECT crd_d... tbl_comperundown" />
+            <marker date="1542370054420" expanded="true" signature="14426:14507" ph="SELECT chd_j... tbl_compehadiah" />
+            <marker date="1542370054420" expanded="true" signature="15131:15366" ph="SELECT sem_i... tbl_seminar" />
+            <marker date="1542370054420" expanded="true" signature="16118:16189" ph="SELECT spb_n... tbl_seminarpembicara" />
+            <marker date="1542370054420" expanded="true" signature="16767:16849" ph="SELECT srd_d... tbl_seminarrundown" />
+            <marker date="1542370054420" expanded="true" signature="17571:17628" ph="UPDATE tbl_s... " />
+            <marker date="1542370054420" expanded="true" signature="18191:18270" ph="UPDATE tbl_s... " />
+            <marker date="1542370054420" expanded="true" signature="18928:19021" ph="UPDATE tbl_s... " />
+            <marker date="1542370054420" expanded="true" signature="19440:19692" ph="SELECT com_i... tbl_compe" />
+            <marker date="1542370054420" expanded="true" signature="20268:20613" ph="SELECT sem.s... tbl_seminar" />
+            <marker date="1542370054420" expanded="true" signature="21706:21789" ph="INSERT INTO tbl_proposal... " />
+            <marker date="1542370054420" expanded="true" signature="22322:22385" ph="INSERT INTO tbl_proposalstatus... " />
+            <marker date="1542370054420" expanded="true" signature="22763:22811" ph="SELECT pro_i... tbl_proposal" />
+            <marker date="1542370054420" expanded="true" signature="23427:23488" ph="UPDATE tbl_p... " />
+            <marker date="1542370054420" expanded="true" signature="23883:24359" ph="SELECT pro.p... tbl_proposal" />
+            <marker date="1542370054420" expanded="true" signature="25176:25237" ph="UPDATE tbl_p... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koneksi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <marker date="1549170454010" expanded="true" signature="1096:1200" ph="SELECT usr_u... registrasi" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
